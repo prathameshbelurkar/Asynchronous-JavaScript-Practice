@@ -1,1 +1,2 @@
-## Asynchronous JS Practice
+## Asynchronous JS Practice 🧑‍🏫
+ 
